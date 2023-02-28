@@ -49,7 +49,4 @@ public function logout(){
     return redirect('/admin/login');
 
 }
-
-
-
 }
